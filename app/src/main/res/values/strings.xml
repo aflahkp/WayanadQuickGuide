@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Wayanad Quick Guide</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_places">PlacesActivity</string>
+    <string name="banasura_des">
+The Banasura Sagar Dam is the largest earthern dam in India and the second largest in Asia. Located in the midst of lovely, mist-clad hills with a wildlife sanctuary and park full of flowering trees, this spot of enchantment has no parallel elsewhere. With its placid crystal clear waters Banasura is a wonderful picnic spot.
+    </string>
+    <string name="kuruva_des">
+    Kuruvadweep is a 950-acre protected river delta on the Kabini River in the Wayanad district, Kerala, India. Kuruvadweep is the only island surrounded with naturally purified water source in Kerala.
+</string>
+    <string name="pookode_des">
+    Pookode Lake is a scenic freshwater lake in the Wayanad district in Kerala, South India. Pookode is a natural fresh water lake nestling amid evergreen forests and mountain slopes at an altitude of 770 meters above sea level.
+    </string>
+    <string name="chembra_des">
+    If you are an admirer of soothing natural beauty and if you love to have an adventure trip, then Chembra Peak in Wayanad, will be a perfect stop for you
+</string>
+
+    <string name="edakkal_des">
+       Edakkal Caves are two natural caves at a remote location at Edakkal, 25 km from Kalpetta in the Wayanad district of Kerala in India\'s Western Ghats.
+        </string>
+    <string name="pazhassi_des">
+     Pazhassi Raja Tomb is a profound memorial made in memory of Veera Pazhassi Raja aka Lion of Kerala
+        </string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_comments">Comments</string>
+    <string name="action_comment">Comment</string>
+    <string name="action_refresh">Reload</string>
+
+</resources>
